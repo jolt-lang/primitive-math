@@ -1,0 +1,2 @@
+;; variadic-proxy defines a macro named by its first argument
+{:lint-as {primitive-math/variadic-proxy clojure.core/def}}
